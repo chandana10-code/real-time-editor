@@ -71,6 +71,8 @@ Software Development: Collaborative writing of technical documentation and markd
 
 <img width="1331" height="884" alt="Image" src="https://github.com/user-attachments/assets/013e45d0-c19c-4743-8bee-30cf1f6c0c4b" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e11a10ef-3b8f-450c-86e6-2ee51babb919" />
+
 Content Creation: Authors, editors, and media teams can co-edit scripts, blogs, or articles.
 
 Research & Academia: Researchers can collaborate on papers or maintain shared experimental logs.
