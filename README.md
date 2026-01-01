@@ -70,12 +70,11 @@ Software Development: Collaborative writing of technical documentation and markd
 #Output
 
 
+
 Content Creation: Authors, editors, and media teams can co-edit scripts, blogs, or articles.
 
 Research & Academia: Researchers can collaborate on papers or maintain shared experimental logs.
 
 Impact: The application improves productivity, reduces communication delays, and supports distributed teamwork by providing a platform for simultaneous collaboration.
-
-Conclusion
 
 The Real-Time Collaborative Document Editor demonstrates how modern web technologies can be leveraged to build interactive, real-time applications. By integrating React.js (or Vue.js), Node.js, Socket.IO, and MongoDB/PostgreSQL, the project not only showcases technical skills but also provides a practical tool for remote collaboration. This project can be expanded further to include features like user authentication, rich text formatting, file export/import, and role-based access control, making it a comprehensive solution for collaborative document management
