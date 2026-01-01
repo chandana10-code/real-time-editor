@@ -69,7 +69,7 @@ Software Development: Collaborative writing of technical documentation and markd
 
 #Output
 
-
+<img width="1331" height="884" alt="Image" src="https://github.com/user-attachments/assets/013e45d0-c19c-4743-8bee-30cf1f6c0c4b" />
 
 Content Creation: Authors, editors, and media teams can co-edit scripts, blogs, or articles.
 
